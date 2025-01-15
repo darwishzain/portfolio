@@ -1,2 +1,5 @@
 # portfolio
  
+```
+npm start
+```
